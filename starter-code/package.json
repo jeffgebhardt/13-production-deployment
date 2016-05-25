@@ -1,6 +1,9 @@
 {
   "name": "mvc-blog",
   "version": "1.0.0",
+  "engines": {
+  "node": "5.9.1"
+  },
   "description": "As we now complete our MVC conversation, we can refactor our app to use good MVC separation of concerns.",
   "main": "server.js",
   "scripts": {
